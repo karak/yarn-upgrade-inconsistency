@@ -1,0 +1,21 @@
+{
+  "name": "yarn-upgrade-inconsistency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc index.ts"
+  },
+  "keywords": [
+    "yarn"
+  ],
+  "author": "Karak <karak97@gmail.com> (https://github.com/karak)",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.0.7",
+    "@types/react-dom": "^16.0.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "typescript": "^2.5.3"
+  }
+}
